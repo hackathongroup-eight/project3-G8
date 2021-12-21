@@ -1,5 +1,5 @@
 # project3-G8
-# header H1 Setup:
+# header H1 
 
 run npm install && npm start for both client and server side to start the app
 ## Table of contents
