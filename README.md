@@ -1,5 +1,5 @@
 # project3-G8
-# 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 run npm install && npm start for both client and server side to start the app
 ## Table of contents
